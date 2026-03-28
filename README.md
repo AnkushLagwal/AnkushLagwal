@@ -1,4 +1,4 @@
-<h1> Hey. I'm Ankush Lagwal</h1> <br><br>💻 Developer focused on building real-world applications and solving meaningful problems.<br><br>I enjoy turning ideas into practical solutions and continuously improving through hands-on projects and learning.<br><br>🔹Always exploring, always building.<br><br>🔹Open to collaboration and excited to work on impactful projects.
+<h3> Hey, I'm Ankush Lagwal</h3> <br><br>💻 Developer focused on building real-world applications and solving meaningful problems.<br><br>I enjoy turning ideas into practical solutions and continuously improving through hands-on projects and learning.<br><br>🔹Always exploring, always building.<br><br>🔹Open to collaboration and excited to work on impactful projects.
 <br/>
 <br/>
 
@@ -11,4 +11,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img width="258" height="208" alt="17747246077636938972524127258184" src="https://github.com/user-attachments/assets/9b055dac-ff14-4e50-98ec-70a33a74d10c" />
