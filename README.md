@@ -1,4 +1,4 @@
-<h1> Hey, I'm Ankush Lagwal</h3> <br><br>💻 Developer focused on building real-world applications and solving meaningful problems.<br><br>I enjoy turning ideas into practical solutions and continuously improving through hands-on projects and learning.<br><br>🔹Always exploring, always building.<br><br>🔹Open to collaboration and excited to work on impactful projects.
+<h1> Hey, I'm Ankush Lagwal</h3> <br><br>Web Developer focused on building real-world applications and solving meaningful problems.<br><br>I enjoy turning ideas into practical solutions and continuously improving through hands-on projects and learning.<br><br>🔹Always exploring, always building.<br><br>🔹Open to collaboration and excited to work on impactful projects.
 <br/>
 <br/>
 
